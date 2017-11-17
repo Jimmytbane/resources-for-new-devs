@@ -10,6 +10,8 @@ Here is my opinion:
 - Vim/Neovim and bash is pure bliss
 - Atom is good but I personally find it underwhelming and slow for its ammount of features
 - Emacs is not something I've ever dabbled in(maybe one day)
+- Intellij is also good, but your selection of supported languages is really poor, as they want more money from you for more
+  language support, and it's not cheap. If you can use the Community Edition then by all means it will be a great experience(unless you     require a premium feature)
 
 My conclusion:
 
