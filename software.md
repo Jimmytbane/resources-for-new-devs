@@ -12,6 +12,7 @@ Here is my opinion:
 - Emacs is not something I've ever dabbled in(maybe one day)
 - Intellij is also good, but your selection of supported languages is really poor, as they want more money from you for more
   language support, and it's not cheap. If you can use the Community Edition then by all means it will be a great experience(unless you     require a premium feature)
+- gnome builder seems good but I have no experience with it.
 
 My conclusion:
 
